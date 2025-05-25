@@ -36,4 +36,4 @@ The final submission should include a fully functional chat application with a c
 
 This task not only builds hands-on experience in front-end development but also introduces real-time systems — a crucial concept in many modern applications. Successfully completing this project will strengthen your understanding of how front-end and backend systems interact in a live application environment.
 OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/87115060-8d5a-4d6c-aec6-3fe6f2294c71)
