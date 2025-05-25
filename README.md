@@ -35,3 +35,5 @@ Deliverable:
 The final submission should include a fully functional chat application with a clean and responsive design, real-time messaging using WebSockets, and the ability to view previous chat messages. All code must be uploaded to a GitHub repository with proper folder structure and comments for readability.
 
 This task not only builds hands-on experience in front-end development but also introduces real-time systems — a crucial concept in many modern applications. Successfully completing this project will strengthen your understanding of how front-end and backend systems interact in a live application environment.
+OUTPUT:
+
